@@ -1,0 +1,5 @@
+# Este archivo sirve para indicarle a git que es lo que debe ignorar
+# de esta manera informacion privada no será compartida evitando comprometer datos
+# se pueden agregar desde archivos simples hasta carpetas
+.env
+node_module
